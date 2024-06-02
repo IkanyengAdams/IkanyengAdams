@@ -11,7 +11,7 @@ I'm Ikanyeng from South Africa, currently studying Software Engineering at Codes
 * 🚀  I'm currently working on [Recreating YouTube elements such as buttons, text and the layouts using HTML and CSS.](http://github.com/IkanyengAdams/YouTube-clone)
 * 🧠  I'm learning JavaScript, React.js and React.
 * 🤝  I'm open to collaborating on How drones are created, the engineering behind.
-* ⚡  I'm scared of spiders!!
+* ⚡  Fun fact: Be You!!
 
 ### Skills
 
