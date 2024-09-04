@@ -9,8 +9,8 @@ I have been learning to code for about a year now, starting with the basics of H
 * 🌍  I'm based in South Africa, North West, Rustenburg
 * 🖥️  See my portfolio at [Personal Portfolio](http://ikanyengadams-portfolio.netlify.app/)
 * ✉️  You can contact me at [ikanyengadams2@gmail.com](mailto:ikanyengadams2@gmail.com)
-* 🚀  I'm currently working on [Youtube Clone](http://github.com/IkanyengAdams/YouTube-clone)
-* 🧠  I'm learning MongoDB
+* 🚀  I'm currently working on [Youtube Clone](http://github.com/IkanyengAdams/YouTube-clone
+* 🧠  I'm learning MongoDB & Next.js
 * 🤝  I'm open to collaborating on fascinating project on AI and Cybersecurity
 * ⚡  Even if you do not feel like doing something that's gonna benefit you in the end. JUST DO IT!!
 
