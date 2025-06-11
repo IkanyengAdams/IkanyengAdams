@@ -7,11 +7,11 @@ Aspiring Software Engineer
 I have been learning to code for about a year now, starting with the basics of HTML and CSS. This foundational knowledge gave me a solid understanding of web structure and styling. After mastering these basics, I moved on to JavaScript, which opened up new possibilities for dynamic and interactive web applications. I delved deeper into the world of front-end development by learning Redux and React.js, which enhanced my ability to manage state and build complex user interfaces. Currently, I am exploring various JavaScript frameworks such as Alpine.js, Svelte.js, and Vue.js, each offering unique features and benefits that broaden my coding skill set. Outside of my work-related endeavors, I enjoy playing football, which helps me stay active and unwind. Additionally, I am committed to daily self-improvement, constantly seeking ways to enhance my personal and professional life. This journey in coding has been both challenging and rewarding, and I am excited to continue growing and learning in this ever-evolving field.
 
 * 🌍  I'm based in South Africa, North West, Rustenburg
-* 🖥️  See my portfolio at [Personal Portfolio](http://ikanyengadams-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [Personal Portfolio](https://ikaada-488-bcl-2401-group-b-ikanyeng-adams-cdv-05.vercel.app/)
 * ✉️  You can contact me at [ikanyengadams2@gmail.com](mailto:ikanyengadams2@gmail.com)
 * 🚀  I'm currently working on [Youtube Clone](http://github.com/IkanyengAdams/YouTube-clone
-* 🧠  I'm learning MongoDB & Next.js.
-* 🤝  I'm open to collaborating on fascinating project on AI and Cybersecurity
+* 🧠  I'm learning DevOps Tools (Linux, Python, Git, Docker, Kubernetes, Networking, CI/CD, Terraform, Ansible & Observability)
+* 🤝  I'm open to collaborating on fascinating project on DevOps  projects
 * ⚡  Even if you do not feel like doing something that's gonna benefit you in the end. JUST DO IT!!
 
 <a href="https://www.github.com/IkanyengAdams" target="_blank" rel="noreferrer"><img
