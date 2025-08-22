@@ -9,7 +9,7 @@ I have been learning to code for about a year now, starting with the basics of H
 * 🌍  I'm based in South Africa, North West, Rustenburg
 * 🖥️  See my portfolio at [Personal Portfolio](https://ikaada-488-bcl-2401-group-b-ikanyeng-adams-cdv-05.vercel.app/)
 * ✉️  You can contact me at [ikanyengadams2@gmail.com](mailto:ikanyengadams2@gmail.com)
-* 🚀  I'm currently working on [Youtube Clone](http://github.com/IkanyengAdams/YouTube-clone
+* 🚀  I'm currently working on creating cloud solutions
 * 🧠  I'm learning DevOps Tools (Linux, Python, Git, Docker, Kubernetes, Networking, CI/CD, Terraform, Ansible & Observability)
 * 🤝  I'm open to collaborating on fascinating project on DevOps  projects
 * ⚡  Even if you do not feel like doing something that's gonna benefit you in the end. JUST DO IT!!
